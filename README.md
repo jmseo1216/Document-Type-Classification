@@ -6,9 +6,7 @@
 - 이를 통해 금융, 의료, 보험 등에서의 업무 효율성과 데이터 관리의 신뢰성을 높이기 위함.
 
 ## 2. 기술 스택
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=black">
-<img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=for-the-badge&logo=Pytorch&logoColor=white">
-<img src="https://img.shields.io/badge/Opencv-5C3EE8?style=for-the-badge&logo=Opencv&logoColor=purple">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=black"><img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=for-the-badge&logo=Pytorch&logoColor=white"><img src="https://img.shields.io/badge/Opencv-5C3EE8?style=for-the-badge&logo=Opencv&logoColor=purple">
 
 ## 3. Dataset Overview
 * train : 1570장의 이미지

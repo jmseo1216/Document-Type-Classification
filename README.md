@@ -1,5 +1,14 @@
 # Document Type Classification
 
+## Prerequisites
+- albumentations==1.1.0
+- opencv-python==4.5.3.56
+- matplotlib=3.5
+- augraphy==8.2.6
+- version==2.1.0
+- torchvision==0.16.0
+- Python==3.10.13
+
 ## 1. 개요
 - 다양한 산업에서 문서 이미지는 산업 전반에 가장 많은 데이터로써 대량의 문서 이미지를 식별하고 자동화 처리가 필요.
 - 실 데이터 기반 문서 타입을 인식하고 분류하는 이미지 분류 모델을 구축
